@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+hr{
+  background:black;
+  height:6px;
+
+}
+table{
+  border:2px black;
+  width:800px;
+  height:200px;
+  border-collapse:collapse;
+}th,td{
+  border-collapse:collapse;
+  border:2px black;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+img{
+  border-radius:50%;
+  padding:10px;
+ width:180px;
+}
